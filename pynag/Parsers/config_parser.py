@@ -383,7 +383,7 @@ class Config(object):
             A list containing elements parsed by :py:meth:`parse_string`
         """
         try:
-            raw_string = self.open(filename, 'rb').read()
+            raw_string = self.open(filename, 'r').read()
             return self.parse_string(raw_string, filename=filename)
         except IOError:
             t, e = sys.exc_info()[:2]

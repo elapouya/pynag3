@@ -1,0 +1,1000 @@
+[1403820000] LOG ROTATION: DAILY
+[1403820000] LOG VERSION: 2.0
+[1403820000] CURRENT HOST STATE: apc01.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: apc01.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: apc01.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc01.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc01.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc01.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc01.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc01.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc01.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc01.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc01.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc01.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: apc01.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: apc01.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: apc01.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: apc02.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc02.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc02.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: apc02.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc02.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc02.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc02.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc02.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc02.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc02.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc02.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc02.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc02.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc02.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: apc02.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: app01.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app01.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app01.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app01.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app01.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app01.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: app01.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app01.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.22 ms
+[1403820000] CURRENT HOST STATE: app01.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: app01.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: app01.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: app01.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.11 ms
+[1403820000] CURRENT HOST STATE: app01.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.12 ms
+[1403820000] CURRENT HOST STATE: app01.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: app01.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.11 ms
+[1403820000] CURRENT HOST STATE: app02.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: app02.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: app02.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: app02.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app02.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app02.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: app02.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: app02.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: app02.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app02.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: app02.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: app02.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: app02.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app02.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: app02.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: app03.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: app03.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: app03.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: app03.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app03.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: app03.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app03.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.11 ms
+[1403820000] CURRENT HOST STATE: app03.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: app03.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: app03.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app03.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app03.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app03.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app03.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app03.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app04.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: app04.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app04.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app04.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: app04.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: app04.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app04.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: app04.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app04.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: app04.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: app04.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: app04.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: app04.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: app04.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: app04.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: bla2;UP;HARD;1;(No output returned from host check)
+[1403820000] CURRENT HOST STATE: down01.example.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: down02.example.com;DOWN;HARD;1;CRITICAL - Network Unreachable (11.11.111.11)
+[1403820000] CURRENT HOST STATE: down03.example.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: dv.is;UP;HARD;1;OK: ok
+[1403820000] CURRENT HOST STATE: example.com;UP;HARD;1;OK: ok
+[1403820000] CURRENT HOST STATE: firewall01.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: firewall01.belgium.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: firewall01.brasil.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: firewall01.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: firewall01.france.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.11 ms
+[1403820000] CURRENT HOST STATE: firewall01.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: firewall01.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: firewall01.iceland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: firewall01.india.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: firewall01.ireland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: firewall01.qatar.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: firewall01.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: firewall01.texas.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.11 ms
+[1403820000] CURRENT HOST STATE: firewall01.washington.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: firewall01.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: firewall02.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: firewall02.belgium.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: firewall02.brasil.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: firewall02.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: firewall02.france.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: firewall02.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: firewall02.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: firewall02.iceland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: firewall02.india.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: firewall02.ireland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: firewall02.qatar.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: firewall02.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: firewall02.texas.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: firewall02.washington.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: firewall02.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: google.com;DOWN;HARD;1;CRITICAL - Network Unreachable (74.125.128.139)
+[1403820000] CURRENT HOST STATE: gw01.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw01.belgium.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw01.brasil.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: gw01.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw01.france.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw01.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw01.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw01.iceland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw01.india.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw01.ireland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw01.qatar.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: gw01.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: gw01.texas.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw01.washington.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw01.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw02.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw02.belgium.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: gw02.brasil.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: gw02.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: gw02.france.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw02.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw02.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw02.iceland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: gw02.india.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw02.ireland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: gw02.qatar.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: gw02.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: gw02.texas.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: gw02.washington.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: gw02.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: icelandair.is;DOWN;HARD;1;CRITICAL - Network Unreachable (80.248.29.2)
+[1403820000] CURRENT HOST STATE: landspitali.is;DOWN;HARD;1;CRITICAL - Network Unreachable (130.208.204.200)
+[1403820000] CURRENT HOST STATE: loadbalancer01.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: loadbalancer01.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: loadbalancer01.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.14 ms
+[1403820000] CURRENT HOST STATE: loadbalancer01.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: loadbalancer01.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: loadbalancer01.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: loadbalancer01.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: loadbalancer01.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: loadbalancer01.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: loadbalancer01.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: loadbalancer01.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: loadbalancer01.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: loadbalancer01.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: loadbalancer01.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: loadbalancer01.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.11 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.11 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.11 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.11 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.11 ms
+[1403820000] CURRENT HOST STATE: loadbalancer02.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.12 ms
+[1403820000] CURRENT HOST STATE: localhost;DOWN;HARD;1;Warning: This plugin must be either run as root or setuid root.
+[1403820000] CURRENT HOST STATE: my.router;DOWN;HARD;1;CRITICAL - Network Unreachable (192.168.1.1)
+[1403820000] CURRENT HOST STATE: nagios.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: nagios.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: nagios.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: nagios.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: nagios.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: nagios.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: nagios.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: nagios.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: nagios.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: nagios.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: nagios.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: nagios.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: nagios.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: nagios.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: nagios.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: ok.is;DOWN;HARD;1;CRITICAL - Network Unreachable (94.142.152.13)
+[1403820000] CURRENT HOST STATE: okbeint.is;UP;HARD;1;OK: ok
+[1403820000] CURRENT HOST STATE: parent01.example.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: remotehost.example.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: sanswitch01.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: sanswitch02.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: skeljungur.is;DOWN;HARD;1;CRITICAL - Network Unreachable (213.167.153.57)
+[1403820000] CURRENT HOST STATE: storage01.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage01.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage01.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage01.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: storage01.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage01.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage01.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage01.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage01.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage01.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage01.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage01.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: storage01.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage01.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage01.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage02.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage02.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT HOST STATE: storage02.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: storage02.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: storage02.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: storage02.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: storage02.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: storage02.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: storage02.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.12 ms
+[1403820000] CURRENT HOST STATE: storage02.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: storage02.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: storage02.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: storage02.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: storage02.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: storage02.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch01.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: switch01.belgium.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: switch01.brasil.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch01.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch01.france.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: switch01.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch01.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch01.iceland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch01.india.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch01.ireland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch01.qatar.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch01.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch01.texas.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch01.washington.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch01.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch02.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch02.belgium.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch02.brasil.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch02.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch02.france.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch02.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch02.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch02.iceland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch02.india.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch02.ireland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch02.qatar.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch02.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch02.texas.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch02.washington.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch02.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch03.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch03.belgium.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch03.brasil.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch03.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch03.france.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch03.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch03.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: switch03.iceland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: switch03.india.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch03.ireland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: switch03.qatar.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch03.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch03.texas.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch03.washington.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch03.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch04.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch04.belgium.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch04.brasil.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch04.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: switch04.france.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: switch04.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch04.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch04.iceland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch04.india.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: switch04.ireland.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch04.qatar.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: switch04.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: switch04.texas.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: switch04.washington.wolfram-hart;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: switch04.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: testhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: uplink-router;DOWN;HARD;1;CRITICAL - Network Unreachable (119.42.117.1)
+[1403820000] CURRENT HOST STATE: visir.is;DOWN;HARD;1;CRITICAL - Network Unreachable (212.30.226.20)
+[1403820000] CURRENT HOST STATE: web01.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web01.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web01.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web01.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web01.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web01.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web01.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web01.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web01.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web01.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web01.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web01.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web01.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web01.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web01.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web02.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web02.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web02.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web02.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web02.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web02.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web02.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web02.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web02.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web02.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web02.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: web02.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web02.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web02.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web02.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web03.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web03.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web03.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web03.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web03.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web03.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web03.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web03.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web03.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web03.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web03.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: web03.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web03.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web03.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web03.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web04.acme.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web04.belgium.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web04.brasil.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT HOST STATE: web04.disney.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT HOST STATE: web04.france.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web04.google.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web04.hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web04.iceland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web04.india.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web04.ireland.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web04.qatar.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web04.ram.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: web04.texas.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web04.washington.wolfram-hart.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT HOST STATE: web04.wolf.com;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT HOST STATE: www.ok.is;DOWN;HARD;1;CRITICAL - Network Unreachable (94.142.152.13)
+[1403820000] CURRENT HOST STATE: www.okbeint.is;DOWN;HARD;1;CRITICAL - Network Unreachable (94.142.158.141)
+[1403820000] CURRENT HOST STATE: www.okhysing.is;DOWN;HARD;1;CRITICAL - Network Unreachable (94.142.152.7)
+[1403820000] CURRENT SERVICE STATE: apc01.belgium.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: apc01.belgium.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.03, 0.11
+[1403820000] CURRENT SERVICE STATE: apc01.belgium.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: apc01.belgium.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: apc01.belgium.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 427 processes
+[1403820000] CURRENT SERVICE STATE: apc01.belgium.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: apc01.belgium.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: apc01.belgium.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:45:07 up 18 min,  2 users,  load average: 0.11, 0.24, 0.22
+[1403820000] CURRENT SERVICE STATE: apc01.brasil.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: apc01.disney.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: apc01.france.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: apc01.google.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: apc01.hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: apc01.iceland.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: apc01.india.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: apc01.ireland.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: apc01.qatar.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: apc01.ram.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT SERVICE STATE: apc01.texas.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: apc01.washington.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: apc01.wolf.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: apc02.acme.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT SERVICE STATE: apc02.belgium.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: apc02.brasil.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: apc02.disney.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: apc02.france.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: apc02.google.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: apc02.hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: apc02.iceland.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT SERVICE STATE: apc02.india.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: apc02.ireland.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: apc02.qatar.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: apc02.ram.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT SERVICE STATE: apc02.texas.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: apc02.washington.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: apc02.wolf.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app01.acme.com;CPU Utilization;OK;HARD;1;OK - user: 0.99, nice: 0.74, sys: 1.49, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 98.76
+[1403820000] CURRENT SERVICE STATE: app01.acme.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.acme.com;Load;OK;HARD;1;OK - load average: 0.01, 0.10, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.acme.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT SERVICE STATE: app01.acme.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.acme.com;Running Processes;OK;HARD;1;PROCS OK: 286 processes
+[1403820000] CURRENT SERVICE STATE: app01.acme.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.acme.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.acme.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.acme.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:13 up 6 min,  2 users,  load average: 0.21, 0.30, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.belgium.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 3.43, nice: 4.65, sys: 11.74, iowait: 0.50, irq: 0.50, softirq: 0.74 idle: 81.91
+[1403820000] CURRENT SERVICE STATE: app01.belgium.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.belgium.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.01, 0.10, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.belgium.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app01.belgium.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.belgium.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 282 processes
+[1403820000] CURRENT SERVICE STATE: app01.belgium.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.belgium.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.belgium.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.belgium.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:15 up 6 min,  2 users,  load average: 0.21, 0.30, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.brasil.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 1.49, nice: 0.99, sys: 2.23, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 97.27
+[1403820000] CURRENT SERVICE STATE: app01.brasil.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.brasil.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.01, 0.10, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.brasil.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: app01.brasil.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.brasil.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 358 processes
+[1403820000] CURRENT SERVICE STATE: app01.brasil.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.brasil.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.brasil.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.brasil.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:17 up 6 min,  2 users,  load average: 0.27, 0.31, 0.18
+[1403820000] CURRENT SERVICE STATE: app01.disney.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.74, sys: 1.74, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 98.75
+[1403820000] CURRENT SERVICE STATE: app01.disney.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.disney.com;Load;OK;HARD;1;OK - load average: 0.01, 0.10, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.disney.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app01.disney.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.disney.com;Running Processes;OK;HARD;1;PROCS OK: 338 processes
+[1403820000] CURRENT SERVICE STATE: app01.disney.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.disney.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.disney.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.disney.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:18 up 6 min,  2 users,  load average: 0.27, 0.31, 0.18
+[1403820000] CURRENT SERVICE STATE: app01.france.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.74, sys: 1.98, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 98.52
+[1403820000] CURRENT SERVICE STATE: app01.france.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.france.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.01, 0.10, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.france.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1403820000] CURRENT SERVICE STATE: app01.france.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.france.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 274 processes
+[1403820000] CURRENT SERVICE STATE: app01.france.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.france.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.france.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.france.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:20 up 6 min,  2 users,  load average: 0.27, 0.31, 0.18
+[1403820000] CURRENT SERVICE STATE: app01.google.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.74, sys: 1.74, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 98.76
+[1403820000] CURRENT SERVICE STATE: app01.google.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.google.com;Load;OK;HARD;1;OK - load average: 0.01, 0.09, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.google.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app01.google.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.google.com;Running Processes;OK;HARD;1;PROCS OK: 275 processes
+[1403820000] CURRENT SERVICE STATE: app01.google.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.google.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.google.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.google.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:22 up 6 min,  2 users,  load average: 0.25, 0.31, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.hart.com;CPU Utilization;OK;HARD;1;OK - user: 7.87, nice: 0.50, sys: 1.97, iowait: 0.50, irq: 0.50, softirq: 0.74 idle: 91.40
+[1403820000] CURRENT SERVICE STATE: app01.hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.hart.com;Load;OK;HARD;1;OK - load average: 0.01, 0.09, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: app01.hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.hart.com;Running Processes;OK;HARD;1;PROCS OK: 271 processes
+[1403820000] CURRENT SERVICE STATE: app01.hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:24 up 6 min,  2 users,  load average: 0.25, 0.31, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.iceland.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 7.37, sys: 16.22, iowait: 1.97, irq: 0.50, softirq: 7.37 idle: 69.29
+[1403820000] CURRENT SERVICE STATE: app01.iceland.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.iceland.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.01, 0.09, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.iceland.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app01.iceland.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.iceland.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 464 processes
+[1403820000] CURRENT SERVICE STATE: app01.iceland.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.iceland.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.iceland.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.iceland.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:26 up 6 min,  2 users,  load average: 0.25, 0.31, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.india.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.99, sys: 1.73, iowait: 0.50, irq: 0.50, softirq: 0.74 idle: 98.27
+[1403820000] CURRENT SERVICE STATE: app01.india.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.india.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.01, 0.09, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.india.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app01.india.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.india.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 445 processes
+[1403820000] CURRENT SERVICE STATE: app01.india.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.india.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.india.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.india.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:28 up 6 min,  2 users,  load average: 0.23, 0.30, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.ireland.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.74, sys: 1.72, iowait: 0.50, irq: 0.50, softirq: 0.74 idle: 98.53
+[1403820000] CURRENT SERVICE STATE: app01.ireland.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.ireland.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.01, 0.09, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.ireland.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app01.ireland.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.ireland.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 277 processes
+[1403820000] CURRENT SERVICE STATE: app01.ireland.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.ireland.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.ireland.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.ireland.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:30 up 6 min,  2 users,  load average: 0.23, 0.30, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.qatar.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.99, nice: 0.50, sys: 1.98, iowait: 0.50, irq: 0.50, softirq: 0.74 idle: 98.27
+[1403820000] CURRENT SERVICE STATE: app01.qatar.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.qatar.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.01, 0.09, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.qatar.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: app01.qatar.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.qatar.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 278 processes
+[1403820000] CURRENT SERVICE STATE: app01.qatar.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.qatar.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.qatar.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.qatar.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:32 up 6 min,  2 users,  load average: 0.21, 0.30, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.ram.com;CPU Utilization;OK;HARD;1;OK - user: 1.24, nice: 0.99, sys: 1.98, iowait: 0.74, irq: 0.50, softirq: 0.74 idle: 97.29
+[1403820000] CURRENT SERVICE STATE: app01.ram.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.ram.com;Load;OK;HARD;1;OK - load average: 0.01, 0.09, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.ram.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app01.ram.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.ram.com;Running Processes;OK;HARD;1;PROCS OK: 278 processes
+[1403820000] CURRENT SERVICE STATE: app01.ram.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.ram.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.ram.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.ram.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:34 up 6 min,  2 users,  load average: 0.21, 0.30, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.texas.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 1.24, nice: 6.45, sys: 11.41, iowait: 0.50, irq: 0.50, softirq: 0.99 idle: 82.38
+[1403820000] CURRENT SERVICE STATE: app01.texas.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.texas.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.01, 0.09, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.texas.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: app01.texas.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.texas.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 446 processes
+[1403820000] CURRENT SERVICE STATE: app01.texas.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.texas.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.texas.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.texas.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:35 up 6 min,  2 users,  load average: 0.21, 0.30, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.washington.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 9.72, sys: 5.48, iowait: 5.48, irq: 0.50, softirq: 2.24 idle: 79.30
+[1403820000] CURRENT SERVICE STATE: app01.washington.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.washington.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.09, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.washington.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app01.washington.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.washington.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 444 processes
+[1403820000] CURRENT SERVICE STATE: app01.washington.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.washington.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.washington.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.washington.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:37 up 6 min,  2 users,  load average: 0.20, 0.29, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.wolf.com;CPU Utilization;OK;HARD;1;OK - user: 0.76, nice: 1.54, sys: 6.24, iowait: 15.38, irq: 0.50, softirq: 3.37 idle: 75.69
+[1403820000] CURRENT SERVICE STATE: app01.wolf.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app01.wolf.com;Load;OK;HARD;1;OK - load average: 0.00, 0.09, 0.17
+[1403820000] CURRENT SERVICE STATE: app01.wolf.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: app01.wolf.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app01.wolf.com;Running Processes;OK;HARD;1;PROCS OK: 275 processes
+[1403820000] CURRENT SERVICE STATE: app01.wolf.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app01.wolf.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app01.wolf.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app01.wolf.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:39 up 6 min,  2 users,  load average: 0.20, 0.29, 0.17
+[1403820000] CURRENT SERVICE STATE: app02.acme.com;CPU Utilization;OK;HARD;1;OK - user: 0.99, nice: 1.99, sys: 6.71, iowait: 14.43, irq: 0.50, softirq: 4.23 idle: 74.62
+[1403820000] CURRENT SERVICE STATE: app02.acme.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.acme.com;Load;OK;HARD;1;OK - load average: 0.00, 0.09, 0.17
+[1403820000] CURRENT SERVICE STATE: app02.acme.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app02.acme.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.acme.com;Running Processes;OK;HARD;1;PROCS OK: 275 processes
+[1403820000] CURRENT SERVICE STATE: app02.acme.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.acme.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.acme.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.acme.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:41 up 6 min,  2 users,  load average: 0.20, 0.29, 0.17
+[1403820000] CURRENT SERVICE STATE: app02.belgium.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.75, nice: 2.54, sys: 5.10, iowait: 16.10, irq: 0.50, softirq: 2.29 idle: 76.20
+[1403820000] CURRENT SERVICE STATE: app02.belgium.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.belgium.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.09, 0.17
+[1403820000] CURRENT SERVICE STATE: app02.belgium.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.11 ms
+[1403820000] CURRENT SERVICE STATE: app02.belgium.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.belgium.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 275 processes
+[1403820000] CURRENT SERVICE STATE: app02.belgium.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.belgium.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.belgium.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.belgium.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:43 up 6 min,  2 users,  load average: 0.18, 0.29, 0.17
+[1403820000] CURRENT SERVICE STATE: app02.brasil.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 1.50, nice: 10.27, sys: 21.80, iowait: 16.28, irq: 0.50, softirq: 2.75 idle: 50.37
+[1403820000] CURRENT SERVICE STATE: app02.brasil.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.brasil.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.09, 0.17
+[1403820000] CURRENT SERVICE STATE: app02.brasil.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app02.brasil.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.brasil.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 552 processes
+[1403820000] CURRENT SERVICE STATE: app02.brasil.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.brasil.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.brasil.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.brasil.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:45 up 6 min,  2 users,  load average: 0.18, 0.29, 0.17
+[1403820000] CURRENT SERVICE STATE: app02.disney.com;CPU Utilization;OK;HARD;1;OK - user: 1.00, nice: 2.25, sys: 7.26, iowait: 15.78, irq: 0.50, softirq: 3.50 idle: 73.18
+[1403820000] CURRENT SERVICE STATE: app02.disney.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.disney.com;Load;OK;HARD;1;OK - load average: 0.00, 0.09, 0.17
+[1403820000] CURRENT SERVICE STATE: app02.disney.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app02.disney.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.disney.com;Running Processes;OK;HARD;1;PROCS OK: 552 processes
+[1403820000] CURRENT SERVICE STATE: app02.disney.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.disney.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.disney.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.disney.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:47 up 6 min,  2 users,  load average: 0.25, 0.30, 0.18
+[1403820000] CURRENT SERVICE STATE: app02.france.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 1.02, nice: 2.33, sys: 8.09, iowait: 15.68, irq: 0.50, softirq: 2.59 idle: 73.27
+[1403820000] CURRENT SERVICE STATE: app02.france.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.france.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.09, 0.16
+[1403820000] CURRENT SERVICE STATE: app02.france.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app02.france.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.france.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 552 processes
+[1403820000] CURRENT SERVICE STATE: app02.france.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.france.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.france.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.france.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:49 up 6 min,  2 users,  load average: 0.25, 0.30, 0.18
+[1403820000] CURRENT SERVICE STATE: app02.google.com;CPU Utilization;OK;HARD;1;OK - user: 1.00, nice: 1.76, sys: 7.06, iowait: 15.90, irq: 0.50, softirq: 2.26 idle: 74.99
+[1403820000] CURRENT SERVICE STATE: app02.google.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.google.com;Load;OK;HARD;1;OK - load average: 0.00, 0.09, 0.16
+[1403820000] CURRENT SERVICE STATE: app02.google.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app02.google.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.google.com;Running Processes;OK;HARD;1;PROCS OK: 275 processes
+[1403820000] CURRENT SERVICE STATE: app02.google.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.google.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.google.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.google.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:51 up 6 min,  2 users,  load average: 0.25, 0.30, 0.18
+[1403820000] CURRENT SERVICE STATE: app02.hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.75, nice: 2.03, sys: 5.60, iowait: 16.31, irq: 0.50, softirq: 2.03 idle: 76.26
+[1403820000] CURRENT SERVICE STATE: app02.hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.09, 0.16
+[1403820000] CURRENT SERVICE STATE: app02.hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: app02.hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.hart.com;Running Processes;OK;HARD;1;PROCS OK: 275 processes
+[1403820000] CURRENT SERVICE STATE: app02.hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:52 up 7 min,  2 users,  load average: 0.31, 0.31, 0.18
+[1403820000] CURRENT SERVICE STATE: app02.iceland.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 1.26, nice: 1.77, sys: 5.08, iowait: 16.02, irq: 0.50, softirq: 2.53 idle: 76.32
+[1403820000] CURRENT SERVICE STATE: app02.iceland.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.iceland.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.09, 0.16
+[1403820000] CURRENT SERVICE STATE: app02.iceland.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app02.iceland.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.iceland.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 272 processes
+[1403820000] CURRENT SERVICE STATE: app02.iceland.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.iceland.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.iceland.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.iceland.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:54 up 7 min,  2 users,  load average: 0.31, 0.31, 0.18
+[1403820000] CURRENT SERVICE STATE: app02.india.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 1.00, nice: 2.77, sys: 6.05, iowait: 15.65, irq: 0.50, softirq: 2.52 idle: 74.99
+[1403820000] CURRENT SERVICE STATE: app02.india.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.india.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.09, 0.16
+[1403820000] CURRENT SERVICE STATE: app02.india.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: app02.india.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.india.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 435 processes
+[1403820000] CURRENT SERVICE STATE: app02.india.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.india.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.india.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.india.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:56 up 7 min,  2 users,  load average: 0.31, 0.31, 0.18
+[1403820000] CURRENT SERVICE STATE: app02.ireland.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.99, nice: 2.24, sys: 2.74, iowait: 31.67, irq: 0.50, softirq: 0.99 idle: 64.34
+[1403820000] CURRENT SERVICE STATE: app02.ireland.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.ireland.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app02.ireland.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app02.ireland.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.ireland.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 433 processes
+[1403820000] CURRENT SERVICE STATE: app02.ireland.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.ireland.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.ireland.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.ireland.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:33:58 up 7 min,  2 users,  load average: 0.28, 0.31, 0.18
+[1403820000] CURRENT SERVICE STATE: app02.qatar.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 5.26, nice: 1.00, sys: 3.50, iowait: 11.77, irq: 0.50, softirq: 2.00 idle: 79.44
+[1403820000] CURRENT SERVICE STATE: app02.qatar.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.qatar.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app02.qatar.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: app02.qatar.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.qatar.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 273 processes
+[1403820000] CURRENT SERVICE STATE: app02.qatar.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.qatar.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.qatar.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.qatar.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:00 up 7 min,  2 users,  load average: 0.28, 0.31, 0.18
+[1403820000] CURRENT SERVICE STATE: app02.ram.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.99, sys: 1.24, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 99.01
+[1403820000] CURRENT SERVICE STATE: app02.ram.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.ram.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app02.ram.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app02.ram.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.ram.com;Running Processes;OK;HARD;1;PROCS OK: 273 processes
+[1403820000] CURRENT SERVICE STATE: app02.ram.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.ram.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.ram.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.ram.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:02 up 7 min,  2 users,  load average: 0.26, 0.30, 0.18
+[1403820000] CURRENT SERVICE STATE: app02.texas.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 3.98, sys: 6.71, iowait: 0.74, irq: 0.50, softirq: 0.74 idle: 90.05
+[1403820000] CURRENT SERVICE STATE: app02.texas.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.texas.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app02.texas.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT SERVICE STATE: app02.texas.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.texas.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 277 processes
+[1403820000] CURRENT SERVICE STATE: app02.texas.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.texas.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.texas.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.texas.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:04 up 7 min,  2 users,  load average: 0.26, 0.30, 0.18
+[1403820000] CURRENT SERVICE STATE: app02.washington.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.74, sys: 1.98, iowait: 0.50, irq: 0.50, softirq: 0.74 idle: 98.27
+[1403820000] CURRENT SERVICE STATE: app02.washington.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.washington.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app02.washington.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: app02.washington.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.washington.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 381 processes
+[1403820000] CURRENT SERVICE STATE: app02.washington.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.washington.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.washington.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.washington.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:06 up 7 min,  2 users,  load average: 0.26, 0.30, 0.18
+[1403820000] CURRENT SERVICE STATE: app02.wolf.com;CPU Utilization;OK;HARD;1;OK - user: 0.99, nice: 0.99, sys: 2.48, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 97.52
+[1403820000] CURRENT SERVICE STATE: app02.wolf.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app02.wolf.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app02.wolf.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app02.wolf.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app02.wolf.com;Running Processes;OK;HARD;1;PROCS OK: 381 processes
+[1403820000] CURRENT SERVICE STATE: app02.wolf.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app02.wolf.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app02.wolf.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app02.wolf.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:08 up 7 min,  2 users,  load average: 0.24, 0.30, 0.18
+[1403820000] CURRENT SERVICE STATE: app03.acme.com;CPU Utilization;OK;HARD;1;OK - user: 1.00, nice: 1.00, sys: 1.00, iowait: 0.75, irq: 0.50, softirq: 0.75 idle: 98.50
+[1403820000] CURRENT SERVICE STATE: app03.acme.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.acme.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.acme.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: app03.acme.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.acme.com;Running Processes;OK;HARD;1;PROCS OK: 273 processes
+[1403820000] CURRENT SERVICE STATE: app03.acme.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.acme.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.acme.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.acme.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:09 up 7 min,  2 users,  load average: 0.24, 0.30, 0.18
+[1403820000] CURRENT SERVICE STATE: app03.belgium.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.99, nice: 0.50, sys: 1.73, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 98.77
+[1403820000] CURRENT SERVICE STATE: app03.belgium.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.belgium.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.belgium.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: app03.belgium.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.belgium.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 273 processes
+[1403820000] CURRENT SERVICE STATE: app03.belgium.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.belgium.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.belgium.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.belgium.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:11 up 7 min,  2 users,  load average: 0.24, 0.30, 0.18
+[1403820000] CURRENT SERVICE STATE: app03.brasil.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.50, nice: 0.74, sys: 1.24, iowait: 0.50, irq: 0.50, softirq: 0.74 idle: 99.26
+[1403820000] CURRENT SERVICE STATE: app03.brasil.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.brasil.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.brasil.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1403820000] CURRENT SERVICE STATE: app03.brasil.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.brasil.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 273 processes
+[1403820000] CURRENT SERVICE STATE: app03.brasil.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.brasil.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.brasil.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.brasil.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:13 up 7 min,  2 users,  load average: 0.22, 0.29, 0.18
+[1403820000] CURRENT SERVICE STATE: app03.disney.com;CPU Utilization;OK;HARD;1;OK - user: 2.98, nice: 4.96, sys: 12.90, iowait: 0.50, irq: 0.50, softirq: 1.74 idle: 79.90
+[1403820000] CURRENT SERVICE STATE: app03.disney.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.disney.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.disney.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: app03.disney.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.disney.com;Running Processes;OK;HARD;1;PROCS OK: 376 processes
+[1403820000] CURRENT SERVICE STATE: app03.disney.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.disney.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.disney.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.disney.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:15 up 7 min,  2 users,  load average: 0.22, 0.29, 0.18
+[1403820000] CURRENT SERVICE STATE: app03.france.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.74, sys: 1.24, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 99.25
+[1403820000] CURRENT SERVICE STATE: app03.france.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.france.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.france.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app03.france.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.france.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 381 processes
+[1403820000] CURRENT SERVICE STATE: app03.france.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.france.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.france.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.france.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:17 up 7 min,  2 users,  load average: 0.20, 0.29, 0.17
+[1403820000] CURRENT SERVICE STATE: app03.google.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.99, sys: 3.47, iowait: 1.73, irq: 0.50, softirq: 0.99 idle: 95.05
+[1403820000] CURRENT SERVICE STATE: app03.google.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.google.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.google.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: app03.google.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.google.com;Running Processes;OK;HARD;1;PROCS OK: 273 processes
+[1403820000] CURRENT SERVICE STATE: app03.google.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.google.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.google.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.google.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:19 up 7 min,  2 users,  load average: 0.20, 0.29, 0.17
+[1403820000] CURRENT SERVICE STATE: app03.hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.74, sys: 1.48, iowait: 0.50, irq: 0.50, softirq: 0.74 idle: 98.77
+[1403820000] CURRENT SERVICE STATE: app03.hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: app03.hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.hart.com;Running Processes;OK;HARD;1;PROCS OK: 273 processes
+[1403820000] CURRENT SERVICE STATE: app03.hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:21 up 7 min,  2 users,  load average: 0.20, 0.29, 0.17
+[1403820000] CURRENT SERVICE STATE: app03.iceland.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.50, nice: 0.99, sys: 2.21, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 98.28
+[1403820000] CURRENT SERVICE STATE: app03.iceland.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.iceland.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.iceland.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.11 ms
+[1403820000] CURRENT SERVICE STATE: app03.iceland.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.iceland.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 273 processes
+[1403820000] CURRENT SERVICE STATE: app03.iceland.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.iceland.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.iceland.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.iceland.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:23 up 7 min,  2 users,  load average: 0.27, 0.30, 0.18
+[1403820000] CURRENT SERVICE STATE: app03.india.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 6.23, nice: 0.74, sys: 1.49, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 93.51
+[1403820000] CURRENT SERVICE STATE: app03.india.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.india.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.india.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: app03.india.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.india.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 266 processes
+[1403820000] CURRENT SERVICE STATE: app03.india.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.india.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.india.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.india.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:25 up 7 min,  2 users,  load average: 0.27, 0.30, 0.18
+[1403820000] CURRENT SERVICE STATE: app03.ireland.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.99, nice: 0.74, sys: 1.73, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 98.52
+[1403820000] CURRENT SERVICE STATE: app03.ireland.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.ireland.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.ireland.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app03.ireland.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.ireland.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 357 processes
+[1403820000] CURRENT SERVICE STATE: app03.ireland.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.ireland.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.ireland.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.ireland.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:26 up 7 min,  2 users,  load average: 0.27, 0.30, 0.18
+[1403820000] CURRENT SERVICE STATE: app03.qatar.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.99, sys: 1.49, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 98.76
+[1403820000] CURRENT SERVICE STATE: app03.qatar.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.qatar.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.qatar.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app03.qatar.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.qatar.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 345 processes
+[1403820000] CURRENT SERVICE STATE: app03.qatar.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.qatar.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.qatar.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.qatar.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:28 up 7 min,  2 users,  load average: 0.24, 0.29, 0.18
+[1403820000] CURRENT SERVICE STATE: app03.ram.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.74, sys: 2.22, iowait: 0.50, irq: 0.50, softirq: 0.99 idle: 97.79
+[1403820000] CURRENT SERVICE STATE: app03.ram.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.ram.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.ram.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: app03.ram.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.ram.com;Running Processes;OK;HARD;1;PROCS OK: 274 processes
+[1403820000] CURRENT SERVICE STATE: app03.ram.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.ram.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.ram.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.ram.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:30 up 7 min,  2 users,  load average: 0.24, 0.29, 0.18
+[1403820000] CURRENT SERVICE STATE: app03.texas.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 2.25, nice: 0.75, sys: 1.75, iowait: 5.76, irq: 0.50, softirq: 0.75 idle: 91.72
+[1403820000] CURRENT SERVICE STATE: app03.texas.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.texas.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.08, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.texas.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app03.texas.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.texas.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 273 processes
+[1403820000] CURRENT SERVICE STATE: app03.texas.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.texas.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.texas.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.texas.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:32 up 7 min,  2 users,  load average: 0.22, 0.29, 0.18
+[1403820000] CURRENT SERVICE STATE: app03.washington.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 1.00, nice: 0.50, sys: 1.50, iowait: 2.50, irq: 0.50, softirq: 0.75 idle: 96.75
+[1403820000] CURRENT SERVICE STATE: app03.washington.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.washington.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.washington.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: app03.washington.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.washington.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 269 processes
+[1403820000] CURRENT SERVICE STATE: app03.washington.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.washington.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.washington.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.washington.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:34 up 7 min,  2 users,  load average: 0.22, 0.29, 0.18
+[1403820000] CURRENT SERVICE STATE: app03.wolf.com;CPU Utilization;OK;HARD;1;OK - user: 0.99, nice: 0.99, sys: 1.24, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 98.76
+[1403820000] CURRENT SERVICE STATE: app03.wolf.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app03.wolf.com;Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.16
+[1403820000] CURRENT SERVICE STATE: app03.wolf.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app03.wolf.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app03.wolf.com;Running Processes;OK;HARD;1;PROCS OK: 458 processes
+[1403820000] CURRENT SERVICE STATE: app03.wolf.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app03.wolf.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app03.wolf.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app03.wolf.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:36 up 7 min,  2 users,  load average: 0.22, 0.29, 0.18
+[1403820000] CURRENT SERVICE STATE: app04.acme.com;CPU Utilization;OK;HARD;1;OK - user: 0.50, nice: 0.74, sys: 2.24, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 98.50
+[1403820000] CURRENT SERVICE STATE: app04.acme.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app04.acme.com;Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.15
+[1403820000] CURRENT SERVICE STATE: app04.acme.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app04.acme.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app04.acme.com;Running Processes;OK;HARD;1;PROCS OK: 429 processes
+[1403820000] CURRENT SERVICE STATE: app04.acme.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app04.acme.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app04.acme.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app04.acme.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:38 up 7 min,  2 users,  load average: 0.21, 0.28, 0.18
+[1403820000] CURRENT SERVICE STATE: app04.belgium.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.99, nice: 0.99, sys: 1.72, iowait: 0.99, irq: 0.50, softirq: 0.74 idle: 97.55
+[1403820000] CURRENT SERVICE STATE: app04.belgium.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app04.belgium.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.15
+[1403820000] CURRENT SERVICE STATE: app04.belgium.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: app04.belgium.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app04.belgium.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 273 processes
+[1403820000] CURRENT SERVICE STATE: app04.belgium.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app04.belgium.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app04.belgium.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app04.belgium.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:40 up 7 min,  2 users,  load average: 0.21, 0.28, 0.18
+[1403820000] CURRENT SERVICE STATE: app04.brasil.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 1.23, nice: 0.99, sys: 2.95, iowait: 0.50, irq: 0.50, softirq: 0.74 idle: 96.57
+[1403820000] CURRENT SERVICE STATE: app04.brasil.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app04.brasil.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.15
+[1403820000] CURRENT SERVICE STATE: app04.brasil.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app04.brasil.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app04.brasil.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 274 processes
+[1403820000] CURRENT SERVICE STATE: app04.brasil.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app04.brasil.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app04.brasil.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app04.brasil.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:42 up 7 min,  2 users,  load average: 0.19, 0.28, 0.18
+[1403820000] CURRENT SERVICE STATE: app04.disney.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.99, sys: 1.48, iowait: 0.50, irq: 0.50, softirq: 0.74 idle: 98.53
+[1403820000] CURRENT SERVICE STATE: app04.disney.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app04.disney.com;Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.15
+[1403820000] CURRENT SERVICE STATE: app04.disney.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app04.disney.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app04.disney.com;Running Processes;OK;HARD;1;PROCS OK: 273 processes
+[1403820000] CURRENT SERVICE STATE: app04.disney.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app04.disney.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app04.disney.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app04.disney.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:43 up 7 min,  2 users,  load average: 0.19, 0.28, 0.18
+[1403820000] CURRENT SERVICE STATE: app04.france.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 1.23, nice: 6.15, sys: 11.80, iowait: 0.50, irq: 0.50, softirq: 1.48 idle: 81.82
+[1403820000] CURRENT SERVICE STATE: app04.france.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app04.france.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.15
+[1403820000] CURRENT SERVICE STATE: app04.france.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: app04.france.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app04.france.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 442 processes
+[1403820000] CURRENT SERVICE STATE: app04.france.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app04.france.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app04.france.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app04.france.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:45 up 7 min,  2 users,  load average: 0.19, 0.28, 0.18
+[1403820000] CURRENT SERVICE STATE: app04.google.com;CPU Utilization;OK;HARD;1;OK - user: 3.25, nice: 1.00, sys: 2.25, iowait: 5.76, irq: 0.50, softirq: 1.75 idle: 88.97
+[1403820000] CURRENT SERVICE STATE: app04.google.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app04.google.com;Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.15
+[1403820000] CURRENT SERVICE STATE: app04.google.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: app04.google.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app04.google.com;Running Processes;OK;HARD;1;PROCS OK: 441 processes
+[1403820000] CURRENT SERVICE STATE: app04.google.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app04.google.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app04.google.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app04.google.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:47 up 7 min,  2 users,  load average: 0.25, 0.29, 0.18
+[1403820000] CURRENT SERVICE STATE: app04.hart.com;CPU Utilization;OK;HARD;1;OK - user: 1.25, nice: 0.75, sys: 2.01, iowait: 1.25, irq: 0.50, softirq: 0.75 idle: 96.96
+[1403820000] CURRENT SERVICE STATE: app04.hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app04.hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.15
+[1403820000] CURRENT SERVICE STATE: app04.hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: app04.hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app04.hart.com;Running Processes;OK;HARD;1;PROCS OK: 273 processes
+[1403820000] CURRENT SERVICE STATE: app04.hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app04.hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app04.hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app04.hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:49 up 7 min,  2 users,  load average: 0.25, 0.29, 0.18
+[1403820000] CURRENT SERVICE STATE: app04.iceland.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.99, nice: 0.74, sys: 1.48, iowait: 0.50, irq: 0.50, softirq: 0.74 idle: 98.52
+[1403820000] CURRENT SERVICE STATE: app04.iceland.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app04.iceland.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.15
+[1403820000] CURRENT SERVICE STATE: app04.iceland.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: app04.iceland.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app04.iceland.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 273 processes
+[1403820000] CURRENT SERVICE STATE: app04.iceland.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app04.iceland.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app04.iceland.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app04.iceland.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:51 up 7 min,  2 users,  load average: 0.25, 0.29, 0.18
+[1403820000] CURRENT SERVICE STATE: app04.india.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.74, sys: 1.49, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 99.01
+[1403820000] CURRENT SERVICE STATE: app04.india.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app04.india.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.15
+[1403820000] CURRENT SERVICE STATE: app04.india.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: app04.india.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app04.india.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 273 processes
+[1403820000] CURRENT SERVICE STATE: app04.india.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app04.india.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app04.india.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app04.india.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:53 up 8 min,  2 users,  load average: 0.47, 0.34, 0.19
+[1403820000] CURRENT SERVICE STATE: app04.ireland.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 1.48, nice: 6.15, sys: 13.03, iowait: 0.50, irq: 0.50, softirq: 0.99 idle: 80.84
+[1403820000] CURRENT SERVICE STATE: app04.ireland.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app04.ireland.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.15
+[1403820000] CURRENT SERVICE STATE: app04.ireland.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1403820000] CURRENT SERVICE STATE: app04.ireland.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app04.ireland.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 454 processes
+[1403820000] CURRENT SERVICE STATE: app04.ireland.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app04.ireland.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app04.ireland.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app04.ireland.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:55 up 8 min,  2 users,  load average: 0.47, 0.34, 0.19
+[1403820000] CURRENT SERVICE STATE: app04.qatar.wolfram-hart.com;CPU Utilization;OK;HARD;1;OK - user: 0.99, nice: 0.74, sys: 1.99, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 98.25
+[1403820000] CURRENT SERVICE STATE: app04.qatar.wolfram-hart.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app04.qatar.wolfram-hart.com;Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.15
+[1403820000] CURRENT SERVICE STATE: app04.qatar.wolfram-hart.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1403820000] CURRENT SERVICE STATE: app04.qatar.wolfram-hart.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'
+[1403820000] CURRENT SERVICE STATE: app04.qatar.wolfram-hart.com;Running Processes;OK;HARD;1;PROCS OK: 454 processes
+[1403820000] CURRENT SERVICE STATE: app04.qatar.wolfram-hart.com;SSH Connectivity;OK;HARD;1;(null)
+[1403820000] CURRENT SERVICE STATE: app04.qatar.wolfram-hart.com;Swap Usage;OK;HARD;1;SWAP OK - 100% free (6234 MB out of 6234 MB)
+[1403820000] CURRENT SERVICE STATE: app04.qatar.wolfram-hart.com;Time;OK;HARD;1;OK - timedrift=0 seconds
+[1403820000] CURRENT SERVICE STATE: app04.qatar.wolfram-hart.com;Uptime;OK;HARD;1;Ok, 127.0.0.1 uptime is  23:34:57 up 8 min,  2 users,  load average: 0.52, 0.35, 0.20
+[1403820000] CURRENT SERVICE STATE: app04.ram.com;CPU Utilization;OK;HARD;1;OK - user: 0.74, nice: 0.74, sys: 1.74, iowait: 0.50, irq: 0.50, softirq: 0.50 idle: 98.75
+[1403820000] CURRENT SERVICE STATE: app04.ram.com;Disk Usage;OK;HARD;1;/usr/lib/nagios/plugins/check_disks.pl version
+[1403820000] CURRENT SERVICE STATE: app04.ram.com;Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.15
+[1403820000] CURRENT SERVICE STATE: app04.ram.com;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1403820000] CURRENT SERVICE STATE: app04.ram.com;Process crond;OK;HARD;1;PROCS OK: 1 process with command name 'cron'

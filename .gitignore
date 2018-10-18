@@ -1,0 +1,11 @@
+*.pyc
+.project
+.pydevproject
+.settings
+debian/pynag
+MANIFEST
+build
+dist
+.idea
+.coverage
+man/.doctrees

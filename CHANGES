@@ -1,6 +1,10 @@
+Changes in 3.0 (October 26th 2018)
+Bug Fixes:
+    - First pass of Python 3.0 compatibility
+
 Changes in 1.1.1 (unreleased)
 Bug Fixes:
-    - Fix recursive delete of host 
+    - Fix recursive delete of host
     - Multiple fixes for macro resolving
     - Fix issues when finding command file fails
     - Multiple fixes to daemon class and sudo

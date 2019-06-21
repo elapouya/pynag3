@@ -55,7 +55,7 @@ class PynagTest(Command):
 
 def check_python_version():
     """Check if the python version is outdated"""
-    if sys.version_info[0] == 3:
+    if sys.version_info[0] < 3:
         raise SystemExit("python 3 is required")
 
 

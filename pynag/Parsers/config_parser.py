@@ -578,7 +578,7 @@ class Config(object):
         # Caller of this method expects to be returned
         # several lists that describe the lines in our file.
         # The splitting logic starts here.
-        my_file = self.open(filename)
+        my_file = self.open(filename, encoding='utf-8')
         all_lines = my_file.readlines()
         my_file.close()
 
@@ -1477,7 +1477,7 @@ class Config(object):
         result = []
         if not filename:
             filename = self.cfg_file
-        for line in self.open(filename).readlines():
+        for line in self.open(filename, encoding='utf-8').readlines():
             # Strip out new line characters
             line = line.strip()
 
@@ -1534,7 +1534,7 @@ class Config(object):
         if new_value is None:
             new_line = ''
 
-        write_buffer = self.open(filename).readlines()
+        write_buffer = self.open(filename, encoding='utf-8').readlines()
         is_dirty = False  # dirty if we make any changes
         for i, line in enumerate(write_buffer):
             # Strip out new line characters

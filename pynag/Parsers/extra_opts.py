@@ -185,7 +185,7 @@ class ExtraOptsParser(object):
         if filename is None:
             return {}
 
-        f = open(filename)
+        f = open(filename, encoding='utf-8')
         try:
             data = f.read()
             return self.parse_string(data)

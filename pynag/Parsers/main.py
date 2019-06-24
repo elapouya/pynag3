@@ -49,6 +49,6 @@ class MainConfig(object):
         return result
 
     def parse(self):
-        with open(self.filename) as file_handle:
+        with open(self.filename, encoding='utf-8') as file_handle:
             data = file_handle.read()
             return self._parse_string(data)

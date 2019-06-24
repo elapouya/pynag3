@@ -213,7 +213,7 @@ class LogFiles(object):
         if filename is None:
             filename = self.log_file
         result = []
-        for line in open(filename).readlines():
+        for line in open(filename, encoding='utf-8').readlines():
             parsed_entry = self._parse_log_line(line)
             if parsed_entry != {}:
                 parsed_entry['filename'] = filename

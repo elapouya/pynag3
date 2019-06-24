@@ -61,7 +61,7 @@ class RetentionDat(object):
         value = None  # if within definition, store everything after =
         if not self.filename:
             raise ParserError("status.dat file not found")
-        lines = open(self.filename, 'r').readlines()
+        lines = open(self.filename, 'r', encoding='utf-8').readlines()
         for sequence_no, line in enumerate(lines):
             line_num = sequence_no + 1
             # Cleanup and line skips

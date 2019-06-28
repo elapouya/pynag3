@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # This should go into pynag's unit testing at some point
 # This script tries multithreaded writes to the pynag Model
 # and prints error to screen if any writes fail

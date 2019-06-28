@@ -1,4 +1,4 @@
-# !/usr/bin/python
+# !/usr/bin/env python
 #
 # NagiosCheckResult- Class that creates Nagios checkresult file and
 # writes Passive Host and Service checks to it

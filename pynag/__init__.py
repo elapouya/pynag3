@@ -25,4 +25,4 @@ from pynag import Plugins
 Plugin = Plugins.simple
 
 
-__version__ = '3.0.0'
+__version__ = '3.0.1'

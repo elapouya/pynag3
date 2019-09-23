@@ -7,9 +7,10 @@ from subprocess import call, PIPE, Popen
 import sys
 
 NAME = "pynag3"
-SHORT_DESC = "Python modules for Nagios plugins and configuration"
+SHORT_DESC = "Python3 modules for Nagios plugins and configuration"
 LONG_DESC = """
-Python modules and utilities for pragmatically handling Nagios configuration
+Port to python3 of Drew Stinnett's pynag package : 
+Python3 modules and utilities for pragmatically handling Nagios configuration
 file maintenance, status information, log file parsing and plug-in development.
 """
 
@@ -71,13 +72,13 @@ if __name__ == "__main__":
     setup(
         name='%s' % NAME,
         version=__version__,
-        author='Drew Stinnett',
+        author='Eric Lapouyade',
         description=SHORT_DESC,
         long_description=LONG_DESC,
         classifiers=["Intended Audience :: Developers",
                      "Development Status :: 4 - Beta",
                      "Programming Language :: Python :: 3", ],
-        author_email='drew@drewlink.com',
+        author_email='elapouya@gmail.com',
         url='http://pynag.org/',
         license='GPLv2',
         scripts=['scripts/pynag'],

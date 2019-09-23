@@ -61,6 +61,7 @@ class RetentionDat(object):
         value = None  # if within definition, store everything after =
         if not self.filename:
             raise ParserError("status.dat file not found")
+        in_block = False
         lines = open(self.filename, 'r', encoding='utf-8').readlines()
         for sequence_no, line in enumerate(lines):
             line_num = sequence_no + 1
@@ -70,30 +71,30 @@ class RetentionDat(object):
                 pass
             elif line[0] == "#" or line[0] == ';':
                 pass
+            elif in_block and line.find("=") != -1:
+                (key, value) = line.split("=", 1)
+                status[key] = value
             elif line.find("{") != -1:
+                in_block = True
                 status = {}
                 status['meta'] = {}
                 status['meta']['type'] = line.split("{")[0].strip()
             elif line.find("}") != -1:
+                in_block = False
                 # Status definition has finished, lets add it to
                 # self.data
                 if status['meta']['type'] not in self.data:
                     self.data[status['meta']['type']] = []
                 self.data[status['meta']['type']].append(status)
+            elif in_block and key == "long_plugin_output":
+                # special hack for long_output support. We get here if:
+                # * line does not contain {
+                # * line does not contain }
+                # * line does not contain =
+                # * last line parsed started with long_plugin_output=
+                status[key] += "\n" + line
             else:
-                tmp = line.split("=", 1)
-                if len(tmp) == 2:
-                    (key, value) = line.split("=", 1)
-                    status[key] = value
-                elif key == "long_plugin_output":
-                    # special hack for long_output support. We get here if:
-                    # * line does not contain {
-                    # * line does not contain }
-                    # * line does not contain =
-                    # * last line parsed started with long_plugin_output=
-                    status[key] += "\n" + line
-                else:
-                    raise ParserError("Error on %s:%s: Could not parse line: %s" % (self.filename, line_num, line))
+                raise ParserError("Error on %s:%s: Could not parse line: %s" % (self.filename, line_num, line))
 
     def __setitem__(self, key, item):
         self.data[key] = item

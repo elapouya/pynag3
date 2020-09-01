@@ -245,7 +245,7 @@ class ObjectRelations(object):
             always_use_regex = True
         else:
             always_use_regex = False
-        is_regex = lambda x: x is not None and (always_use_regex or '*' in x or '?' in x or '+' in x or '\.' in x)
+        is_regex = lambda x: x is not None and (always_use_regex or '*' in x or '?' in x or '+' in x or r'\.' in x)
 
         # Strip None entries from full_list
         full_list = [x for x in full_list if x is not None]
@@ -728,7 +728,7 @@ class ObjectDefinition(object):
         """
         # Invalid characters that might potentially mess with our path
         # | / ' " are all invalid. So is any whitespace
-        invalid_chars = '[/\s\'\"\|]'
+        invalid_chars = r'[/\s\'\"\|]'
         object_type = re.sub(invalid_chars, '', self.object_type)
         description = re.sub(invalid_chars, '', self.get_description())
 
@@ -1168,7 +1168,7 @@ class ObjectDefinition(object):
         c = self._split_check_command_and_arguments(c)
         command_name = c.pop(0)
         command = Command.objects.get_by_shortname(command_name)
-        regex = re.compile("(\$\w+\$)")
+        regex = re.compile(r"(\$\w+\$)")
         macronames = regex.findall(command['command_line'])
 
         # Add all custom macros to our list:
@@ -1247,7 +1247,7 @@ class ObjectDefinition(object):
         """
         if not string:
             return _UNRESOLVED_MACRO
-        regex = re.compile("(\$\w+\$)")
+        regex = re.compile(r"(\$\w+\$)")
         get_macro = lambda x: self.get_macro(x.group(), host_name=host_name)
         result = regex.sub(get_macro, string)
         return result
@@ -1275,10 +1275,10 @@ class ObjectDefinition(object):
         """
         if check_command in (None, ''):
             return []
-        if '\!' in check_command:
-            check_command = check_command.replace('\!', 'ESCAPE_EXCL_MARK')
+        if r'\!' in check_command:
+            check_command = check_command.replace(r'\!', 'ESCAPE_EXCL_MARK')
         tmp = check_command.split('!')
-        result = [x.replace('ESCAPE_EXCL_MARK', '\!') for x in tmp]
+        result = [x.replace('ESCAPE_EXCL_MARK', r'\!') for x in tmp]
         return result
 
     def _get_command_macro(self, macroname, check_command=None, host_name=None):

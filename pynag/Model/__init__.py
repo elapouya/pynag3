@@ -1269,7 +1269,7 @@ class ObjectDefinition(object):
         return proc.returncode, stdout, stderr
 
     def _split_check_command_and_arguments(self, check_command):
-        """ Split a nagios "check_command" string into a tuple
+        r""" Split a nagios "check_command" string into a tuple
 
          >>> check_command = "check_ping!warning!critical"
          >>> o = ObjectDefinition()

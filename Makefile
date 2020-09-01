@@ -2,7 +2,7 @@ VERSION		= 0.9.1
 RELEASE		= 1
 DATE		= $(shell date)
 NEWRELEASE	= $(shell echo $$(($(RELEASE) + 1)))
-PYTHON		= /usr/bin/python
+PYTHON		= python
 
 TOPDIR = $(shell pwd)
 DIRS	= build docs contrib etc examples pynag scripts debian.upstream

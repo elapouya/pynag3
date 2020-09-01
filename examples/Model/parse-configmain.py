@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 # This script parses the configmain.html file from the Nagios project and tries
 # to extract information regarding options.
